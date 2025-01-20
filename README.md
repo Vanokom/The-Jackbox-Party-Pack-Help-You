@@ -25,5 +25,6 @@
 
 # Видеоролик про саму программу:
 
+[Тык](https://www.youtube.com/watch?v=0RT3dF4Q3fw)
 
 
