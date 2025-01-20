@@ -1,0 +1,10 @@
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\bin\Debug\The JackBox Party Pack Help You.exe.config
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\bin\Debug\The JackBox Party Pack Help You.exe
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\bin\Debug\The JackBox Party Pack Help You.pdb
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The JackBox Party Pack Help You.csproj.AssemblyReference.cache
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The_JackBox_Party_Pack_Help_You.Form1.resources
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The_JackBox_Party_Pack_Help_You.Properties.Resources.resources
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The JackBox Party Pack Help You.csproj.GenerateResource.cache
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The JackBox Party Pack Help You.csproj.CoreCompileInputs.cache
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The JackBox Party Pack Help You.exe
+E:\Pr\The JackBox Party Pack Help You\The JackBox Party Pack Help You\obj\Debug\The JackBox Party Pack Help You.pdb
